@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Notica de videojuegos</title>
+    <link>https://vandal.elespanol.com</link>
+    <description>noticia de videojuegos</description>
+    <atom:link href="https://vandal.elespanol.com" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 26 Apr 2025 16:24:40 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Apr 2025 16:25:13 GMT</lastBuildDate>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Noticia 5</title>
+      <link>https://vandal.elespanol.com/noticia/1350780072/me-alegra-ver-que-nada-ha-cambiado-los-bugs-de-oblivion-estan-tambien-en-su-remake-y-la-comunidad-lo-celebra/</link>
+      <guid isPermaLink="false">952C0721-1B9C-4586-A5B0-D2316B524AC4</guid>
+      <pubDate>Sat, 26 Apr 2025 16:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 4</title>
+      <link>https://vandal.elespanol.com/noticia/1350780069/pese-a-estar-en-game-pass-clair-obscur-expedition-33-logra-su-primer-hito-de-ventas-el-dia-de-lanzamiento/</link>
+      <guid isPermaLink="false">E6BA5CD0-1A69-4655-8E6F-158E5509EDFA</guid>
+      <pubDate>Sat, 26 Apr 2025 16:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 3</title>
+      <link>https://vandal.elespanol.com/avances/xsx/hela/187096/1#p-97</link>
+      <guid isPermaLink="false">D195DEA8-2E9B-4EF2-9599-6AC8EDCCD39C</guid>
+      <pubDate>Sat, 26 Apr 2025 16:21:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 2</title>
+      <link>https://vandal.elespanol.com/avances/xsx/hela/187096/1#p-97</link>
+      <guid isPermaLink="false">9FC1406C-885D-44F9-BE2D-9A1003D07407</guid>
+      <pubDate>Sat, 26 Apr 2025 16:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 1</title>
+      <link>https://vandal.elespanol.com/avances/xsx/winter-burrow/179821/2#p-97</link>
+      <guid isPermaLink="false">BD19BCE9-1A93-4550-A1F3-59119F4FEC85</guid>
+      <pubDate>Sat, 26 Apr 2025 16:24:19 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
